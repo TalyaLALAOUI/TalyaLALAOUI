@@ -20,7 +20,7 @@ Développeuse web issue d’une **reconversion professionnelle**, j’ai obtenu 
 ## 🚀 Projets
 
 ### 🎤 **O'Festival**  
-**O'Festival** est une plateforme permettant d'organiser et de gérer un festival de musique. Elle est développée avec **Symfony 8.2**, **Doctrine ORM** et **Twig**. Ce projet permet de gérer les artistes, les événements, les réservations et les utilisateurs, tout en offrant une interface intuitive pour les organisateurs de festivals.  
+**O'Festival** est une plateforme permettant d'organiser et de gérer un festival de musique. Elle est développée avec **PHP 8.2**, **Doctrine ORM** et **Twig**. Ce projet permet de gérer les artistes, les événements, les réservations et les utilisateurs, tout en offrant une interface intuitive pour les organisateurs de festivals.  
 🔗 [Voir le projet sur GitHub](https://github.com/O-clock-Liegeois/projet-15-o-festival)
 
 ---
